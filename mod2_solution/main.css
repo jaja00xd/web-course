@@ -5,6 +5,10 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+body{
+    background-image: url('2560x1440-blue-stained-glass-free-website-background-image.jpg')
+}
+
 h1{
     text-align: center;
     margin-top: 20px;
@@ -16,7 +20,7 @@ h1{
 .col-4{
     border: 2px solid black;
     margin: 10px;
-    background-color: gray;
+    background-color: #2DA8D8FF;
 }
 
 p{
@@ -25,22 +29,22 @@ p{
 }
 
 #p1{
-    color: black;
-    background-color: hotpink;
+    color: white;
+    background-color:#055C9D;
     border: 2px solid black;
     float: right;
 }
 
 #p2{
     color: white;
-    background-color: brown;
+    background-color: #003060;
     border: 2px solid black;
     float: right;
 }
 
 #p3{
-    color: black;
-    background-color: peachpuff;
+    color: white;
+    background-color: #0E86D4;
     border: 2px solid black;
     float: right;
 }
